@@ -3,13 +3,22 @@ This Power BI case study focuses on analyzing a real-world eCommerce dataset to 
 <br />
 
 
-<h2>Key Features</h2>
+## Key Features
 
-- <b>Shipping Cost and Savings Analysis: The dashboard highlights total shipping costs at $385.15K (baseline), with a "what-if" scenario showing potential costs of $266.96K, resulting in savings of $118.19K. This analysis allows stakeholders to evaluate the financial impact of adjusting shipped quantities and optimize logistics strategies accordingly.</b> 
-- <b>Impact of Shipped Quantity on Costs by Product Category: A histogram illustrates the distribution of shipped quantities across categories like Pet Food (531 units on average), Cleaning Supplies (456 units), and Electronics (1.38 units). A parallel bar chart shows the corresponding shipping costs, with Pet Food incurring the highest costs due to higher</b>
-- <b>Shipping Cost Trends Over Time: A line chart tracks shipping costs by store and region from January 2021 to November 2021, with a baseline running total of $18.19M and a "what-if" scenario showing potential savings. This temporal analysis reveals trends, such as a peak in costs around mid-2021, enabling stakeholders to pinpoint periods of inefficiency and adjust operations.</b>
-- <b>Regional Distribution of Shipping Costs: A world map visual displays shipping costs by region (Central, East, North, West), with North America showing the highest concentration of activity. This geographic breakdown helps identify high-cost regions, such as the East, where targeted cost-saving measures can be implemented.</b>
-- <b>Interactive Scenario Analysis: The dashboard includes a "what-if" parameter for shipped quantity (set to 11 units), allowing users to simulate the impact of changes in shipment volumes on costs. This feature empowers stakeholders to test different scenarios and make informed decisions about resource allocation.</b>
+- **Shipping Cost and Savings Analysis: Financial Impact Evaluation**  
+The dashboard highlights total shipping costs at $385.15K (baseline), with a "what-if" scenario showing potential costs of $266.96K, resulting in savings of $118.19K, enabling stakeholders to evaluate the financial impact of adjusting shipped quantities and optimize logistics strategies.
+
+- **Impact of Shipped Quantity on Costs by Product Category: Category-Level Insights**  
+A histogram illustrates the distribution of shipped quantities across categories like Pet Food (531 units on average), Cleaning Supplies (456 units), and Electronics (1.38 units), paired with a bar chart showing corresponding shipping costs, revealing high-cost categories like Pet Food for targeted optimization.
+
+- **Shipping Cost Trends Over Time: Temporal Cost Analysis**  
+A line chart tracks shipping costs by store and region from January 2021 to November 2021, comparing a baseline running total of $18.19M with a "what-if" scenario, identifying trends like a mid-2021 cost peak to help stakeholders pinpoint inefficiencies and adjust operations.
+
+- **Regional Distribution of Shipping Costs: Geographic Cost Breakdown**  
+A world map visual displays shipping costs by region (Central, East, North, West), with North America showing the highest activity, helping identify high-cost regions like the East for implementing targeted cost-saving measures.
+
+- **Interactive Scenario Analysis: Dynamic "What-If" Simulations**  
+The dashboard features a "what-if" parameter for shipped quantity (set to 11 units), allowing users to simulate the impact of shipment volume changes on costs, empowering stakeholders to test scenarios and make data-driven decisions on resource allocation.
 
 
 
